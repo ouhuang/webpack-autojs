@@ -1,0 +1,13 @@
+{
+    "name": "cahx",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "launchConfig": {
+        "hideLogs": true
+    },
+    "packageName": "com.example.cahx",
+    "versionName": "0.0.1",
+    "versionCode": 1
+}

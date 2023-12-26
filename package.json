@@ -4,7 +4,7 @@
   "private": true,
   "description": "",
   "scripts": {
-    "start": "npx webpack --config webpack.config.js --watch --mode=development",
+    "dev": "npx webpack --config webpack.config.js --watch --mode=development",
     "build": "npx webpack --config webpack.config.js --mode=production"
   },
   "author": "",
